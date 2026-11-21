@@ -1,0 +1,22 @@
+---
+title: "House_market_analysis"
+format: html
+---
+
+factors
+
+| \#  | Factors               | Source |
+|-----|-----------------------|--------|
+| 0   | Price Trending        |        |
+|     | Stock 库存变化        |        |
+|     | 活跃挂牌库存          |        |
+|     | New listing           |        |
+|     |                       |        |
+|     | 挂牌天数              |        |
+|     | 降价房源占比          |        |
+|     | 成交价 vs. 挂牌价走势 |        |
+|     |                       |        |
+
+: Factors
+
+![](images/clipboard-1007013526.png)
